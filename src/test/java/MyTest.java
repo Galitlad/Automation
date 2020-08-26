@@ -7,7 +7,9 @@ public class MyTest {
         System.out.println("hello");
 
     }
-
+    {
+        System.out.println("galit");
+    }
 
 
 
